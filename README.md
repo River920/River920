@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Gmail:river.m.phoenix@gmail.com Discord:river.m.phoenix@gmail.com/River
-- 😄 Pronouns: R-i-v-uh-r
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to code in JS
 
 <!---
