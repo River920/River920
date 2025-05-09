@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Gmail:river.m.phoenix@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am 10 turning 11 soon
+- ⚡ Fun fact: I am 11
 
 <!---
 River920/River920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
