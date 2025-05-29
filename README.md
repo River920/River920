@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @River920
+- 👋 Hi, I’m River
 - 👀 I’m interested in Learning Code
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Nothing
