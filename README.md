@@ -1,7 +1,7 @@
 - 👋 Hi, I’m River
 - 👀 I’m interested in Learning Code
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m collaborating on https://github.com/sebastianwhiffen/messeger-servers
 - 📫 How to reach me Gmail: river.m.phoenix@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am 11
